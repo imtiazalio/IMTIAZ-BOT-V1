@@ -7,11 +7,11 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
+global.Owner = ['923111396960']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['923111396960']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['923111396960']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "Imtiaz"
+global.packname = "Imtiaz bot"
 global.author = "By: Fantox"
 global.OwnerName = "Fantox"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
@@ -23,7 +23,7 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Pakistan Sindh, Thatta"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
